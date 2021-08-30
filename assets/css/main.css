@@ -3871,11 +3871,13 @@ body.is-preload #header.alt .logo {
 }
 
 #fjordDiagram {
-  max-width: 800px;
+  width: 100%;
+  height: auto;
 }
 
 #fjordFeatures {
-  max-width: 1000px;
+  width: 100%;
+  height: auto;
   margin-top: 1rem;
   margin-bottom: 1rem;
 }
